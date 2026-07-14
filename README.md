@@ -1,6 +1,6 @@
 # Templates da Atenção - Skill para IA
 
-Esta skill transforma a sua Inteligência Artificial em um especialista em criação de conteúdo, capaz de gerar **ganchos magnéticos** e **roteiros completos** baseados no método "30 Templates da Atenção" de Elias Maman (Core Educação).
+Esta skill transforma a sua Inteligência Artificial em um especialista em criação de conteúdo, capaz de gerar **ganchos magnéticos** e **roteiros completos** baseados no método "30 Templates da Atenção".
 
 ## O que a skill faz?
 
